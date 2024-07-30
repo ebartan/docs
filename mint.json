@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Email",
+      "url": "mailto:info@ebartan.dev"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Upwork",
+    "url": "https://www.upwork.com/freelancers/~010e62ec10e8ed8aa7?viewMode=1"
   },
   "tabs": [
     {
