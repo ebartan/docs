@@ -79,6 +79,12 @@
       ]
     },
     {
+      "group": "No-code App",
+      "pages": [
+        "no-code-app/introduction"
+      ]
+    },
+    {
       "group": "Endpoint Examples",
       "pages": [
         "api-reference/endpoint/get",
