@@ -82,7 +82,7 @@
     {
       "group": "vector database",
       "pages": [
-        "vector-database-api/introduction"
+        "database-api/introduction"
       ]
     }
     {
