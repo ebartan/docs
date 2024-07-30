@@ -36,7 +36,7 @@
     },
      {
       "name": "Vector database & API",
-      "url": "vector-database-api"
+      "url": "database-api"
     }
   ],
   "anchors": [
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "group": "vector database",
+      "group": "Vector database",
       "pages": [
         "database-api/introduction"
       ]
@@ -88,9 +88,7 @@
     {
       "group": "Endpoint Examples",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/endpoint/get"
       ]
     }
   ],
