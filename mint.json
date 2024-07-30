@@ -33,6 +33,10 @@
     {
       "name": "No-code App",
       "url": "no-code-app"
+    },
+     {
+      "name": "Vector database & API",
+      "url": "vector-database-api"
     }
   ],
   "anchors": [
@@ -75,6 +79,12 @@
         "no-code-app/introduction"
       ]
     },
+    {
+      "group": "vector database",
+      "pages": [
+        "vector-database-api/introduction"
+      ]
+    }
     {
       "group": "Endpoint Examples",
       "pages": [
