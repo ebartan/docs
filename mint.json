@@ -85,12 +85,6 @@
         "database-api/introduction"
       ]
     }
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get"
-      ]
-    }
   ],
   "footerSocials": {
     "x": "https://x.com/ebartan",
