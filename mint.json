@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Eray Bartan",
   "logo": {
-    "dark": "/logo/ebartan-dark-logo.png",
-    "light": "/logo/ebartan-dark-logo.png"
+    "dark": "/logo/ebartan-dark.png",
+    "light": "/logo/ebartan-light.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
