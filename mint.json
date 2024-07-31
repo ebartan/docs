@@ -37,6 +37,10 @@
      {
       "name": "Vector database & API",
       "url": "database-api"
+    },
+     {
+      "name": "Cloud Deployment",
+      "url": "cloud-deployment"
     }
   ],
   "anchors": [
@@ -83,6 +87,12 @@
       "group": "Vector database",
       "pages": [
         "database-api/introduction"
+      ]
+    },
+    {
+      "group": "Cloud Deployment Group",
+      "pages": [
+        "cloud-deployment/introduction"
       ]
     }
   ],
