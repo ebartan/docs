@@ -19,6 +19,10 @@
     {
       "name": "Email",
       "url": "mailto:info@ebartan.dev"
+    },
+    {
+      "name": "Blog",
+      "url": "https://read.cv/ebartan"
     }
   ],
   "topbarCtaButton": {
