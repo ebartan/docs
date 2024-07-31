@@ -41,6 +41,14 @@
      {
       "name": "Cloud Deployment",
       "url": "cloud-deployment"
+    },
+     {
+      "name": "Stable Diffusion",
+      "url": "stable-diffusion"
+    },
+     {
+      "name": "Workflow Design",
+      "url": "workflow"
     }
   ],
   "anchors": [
@@ -93,6 +101,18 @@
       "group": "Cloud Deployment Group",
       "pages": [
         "cloud-deployment/introduction"
+      ]
+    },
+    {
+      "group": "Stable Diffusion Group",
+      "pages": [
+        "stable-diffusion/introduction"
+      ]
+    },
+    {
+      "group": "Workflow Group",
+      "pages": [
+        "workflow/introduction"
       ]
     }
   ],
