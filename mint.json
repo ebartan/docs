@@ -47,7 +47,7 @@
       "url": "stable-diffusion"
     },
      {
-      "name": "Workflow Design",
+      "name": "Workflow Automation",
       "url": "workflow"
     }
   ],
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "group": "Workflow Group",
+      "group": "Workflow Automation Group",
       "pages": [
         "workflow/introduction"
       ]
