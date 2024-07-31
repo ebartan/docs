@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/ebartan_ldark.png",
-    "light": "/logo/ebartan_light.png"
+    "dark": "/logo/ebartan-dark-logo.png",
+    "light": "/logo/ebartan-light-logo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
