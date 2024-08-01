@@ -2,15 +2,24 @@
 title: 'Neo4j LLM Fundamentals'
 description: 'RAG (Retrieval-Augmented Generation) Chatbot Development'
 ---
+
+<AccordionGroup>
+<Accordion title="Avoiding Hallucination" icon="alien-8bit">
 <Warning>LLMs sometimes produce inaccurate or false information, known as "hallucinations," due to their reliance on patterns from large amounts of training data. These inaccuracies can result from overfitting, biases in the data, and the model's attempts to generalize.</Warning>
+ <Warning>The complexity of Large Language Models (LLMs) and their training on potentially flawed data can lead to unpredictable or inaccurate outputs. For instance, an LLM might generate biased or incorrect responses to controversial topics. Additionally, it can be challenging to trace how the model reached a particular conclusion.</Warning>
+ </Accordion>
+ <Accordion title="Prompt Engineering" icon="alien-8bit">
+ <Warning>Prompt engineering involves creating specific instructions to guide LLMs to better responses. By refining prompts, such as asking for a summary and tags instead of a vague question, developers can improve results without retraining. Adding details like response format and examples enhances output, a technique known as Zero-shot learning.</Warning>
+ <Warning>When writing prompts, use positive instructions for clarity. Instead of saying "Do not use complex words," specify "Use simple words, such as …​." This approach provides clearer guidance and examples, reducing ambiguity.</Warning>
+  </Accordion>
+  <Accordion title="Fine-Tuning" icon="alien-8bit">
+  <Warning>Fine-tuning adjusts a model with specific data to improve its performance on specialized tasks, like enhancing responses for a business. It requires technical expertise and substantial resources. Alternatively, you can provide relevant information directly in the prompt for simpler adjustments.</Warning>
+  </Accordion>
+  <Accordion title="Grounding" icon="alien-8bit">
+  <Warning>Grounding enhances a language model by allowing it to access up-to-date external sources or databases, ensuring responses are current and accurate. For example, a news agency chatbot using grounding could pull the latest headlines or articles from a news API, providing real-time information like recent Olympic news instead of relying solely on outdated training data.</Warning>
+    </Accordion>
+</AccordionGroup>
 
-<Warning>The complexity of Large Language Models (LLMs) and their training on potentially flawed data can lead to unpredictable or inaccurate outputs. For instance, an LLM might generate biased or incorrect responses to controversial topics. Additionally, it can be challenging to trace how the model reached a particular conclusion.</Warning>
-
-<Warning>Prompt engineering involves creating specific instructions to guide LLMs to better responses. By refining prompts, such as asking for a summary and tags instead of a vague question, developers can improve results without retraining. Adding details like response format and examples enhances output, a technique known as Zero-shot learning.</Warning>
-
-<Warning>When writing prompts, use positive instructions for clarity. Instead of saying "Do not use complex words," specify "Use simple words, such as …​." This approach provides clearer guidance and examples, reducing ambiguity.</Warning>
-
-<Warning>Fine-tuning adjusts a model with specific data to improve its performance on specialized tasks, like enhancing responses for a business. It requires technical expertise and substantial resources. Alternatively, you can provide relevant information directly in the prompt for simpler adjustments.</Warning>
 
 
 ## Conversational Agent
