@@ -98,7 +98,8 @@
     {
       "group": "Vector database",
       "pages": [
-        "database-api/introduction"
+        "database-api/introduction",
+        "database-api/neo4j"
       ]
     },
     {
