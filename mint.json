@@ -119,7 +119,8 @@
     {
       "group": "Workflow Automation Group",
       "pages": [
-        "workflow/introduction"
+        "workflow/introduction",
+        "workflow/n8n-portfolio"
       ]
     }
   ],
