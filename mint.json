@@ -53,6 +53,10 @@
      {
       "name": "Workflow Automation",
       "url": "workflow"
+    },
+     {
+      "name": "Social Media & Maketing",
+      "url": "social-media"
     }
   ],
   "anchors": [
@@ -121,6 +125,12 @@
       "pages": [
         "workflow/introduction",
         "workflow/n8n-portfolio"
+      ]
+    },
+    {
+      "group": "Social Media & Marketing",
+      "pages": [
+        "social-media/introduction"
       ]
     }
   ],
