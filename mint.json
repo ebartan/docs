@@ -96,7 +96,8 @@
     {
       "group": "No-code Web app",
       "pages": [
-        "no-code-app/introduction"
+        "no-code-app/introduction",
+        "no-code-app/bubble"
       ]
     },
     {
