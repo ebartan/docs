@@ -118,7 +118,8 @@
       "group": "Stable Diffusion Group",
       "pages": [
         "stable-diffusion/introduction",
-        "stable-diffusion/baseten"
+        "stable-diffusion/baseten",
+        "stable-diffusion/flux"
       ]
     },
     {
